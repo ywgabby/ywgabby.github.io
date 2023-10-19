@@ -1,0 +1,20 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Jeff's awesome website
+This is embedded image from other site. 
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+You can add text
+* and lists
+* with extra bullets
+You can *FORMAT*. 
+
+This is a [link](https://p8105.com/making_websites.html) to a good data science tool.
+![](images/IMG_0447.jpeg)
